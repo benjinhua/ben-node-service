@@ -1,4 +1,4 @@
-const a = "helloworld";
-console.log(a);
+const helloworld = "helloworld";
+console.log(helloworld);
 
-module.exports = a;
+module.exports = helloworld;
